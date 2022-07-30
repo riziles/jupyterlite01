@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-30T14:14:10.773374Z",
+      "created": "2022-07-30T14:15:15.924868Z",
       "format": null,
-      "last_modified": "2022-07-30T14:13:05.336310Z",
+      "last_modified": "2022-07-30T14:14:18.529991Z",
+      "mimetype": null,
+      "name": "CalculusFreeRateModel.ipynb",
+      "path": "ratemodel/CalculusFreeRateModel.ipynb",
+      "size": 16999,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-30T14:15:15.924868Z",
+      "format": null,
+      "last_modified": "2022-07-30T14:14:18.529991Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "ratemodel/README.md",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-30T14:14:10.773374Z",
+  "created": "2022-07-30T14:15:15.924868Z",
   "format": "json",
-  "last_modified": "2022-07-30T14:14:10.773374Z",
+  "last_modified": "2022-07-30T14:15:15.924868Z",
   "mimetype": null,
   "name": "ratemodel",
   "path": "ratemodel",
